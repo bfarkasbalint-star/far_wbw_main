@@ -1,0 +1,43 @@
+[0.494s] Invoking command in '/home/ajr/far_wbw_main/simple_threshold_monitor': PYTHONPATH=/home/ajr/far_wbw_main/build/simple_threshold_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/simple_threshold_monitor build --build-base /home/ajr/far_wbw_main/build/simple_threshold_monitor/build install --record /home/ajr/far_wbw_main/build/simple_threshold_monitor/install.log --single-version-externally-managed install_data
+[0.668s] running egg_info
+[0.668s] creating ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info
+[0.669s] writing ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/PKG-INFO
+[0.669s] writing dependency_links to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/dependency_links.txt
+[0.669s] writing entry points to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/entry_points.txt
+[0.669s] writing requirements to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/requires.txt
+[0.669s] writing top-level names to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/top_level.txt
+[0.670s] writing manifest file '../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.671s] reading manifest file '../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.671s] writing manifest file '../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.672s] running build
+[0.672s] running build_py
+[0.672s] creating /home/ajr/far_wbw_main/build/simple_threshold_monitor/build
+[0.672s] creating /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib
+[0.672s] creating /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor
+[0.672s] copying simple_threshold_monitor/__init__.py -> /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor
+[0.672s] copying simple_threshold_monitor/random_publisher.py -> /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor
+[0.672s] copying simple_threshold_monitor/threshold_subscriber.py -> /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor
+[0.673s] running install
+[0.673s] running install_lib
+[0.673s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor
+[0.673s] copying /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor/__init__.py -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor
+[0.674s] copying /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor/random_publisher.py -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor
+[0.674s] copying /home/ajr/far_wbw_main/build/simple_threshold_monitor/build/lib/simple_threshold_monitor/threshold_subscriber.py -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor
+[0.674s] byte-compiling /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor/__init__.py to __init__.cpython-310.pyc
+[0.674s] byte-compiling /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor/random_publisher.py to random_publisher.cpython-310.pyc
+[0.675s] byte-compiling /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor/threshold_subscriber.py to threshold_subscriber.cpython-310.pyc
+[0.675s] running install_data
+[0.675s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index
+[0.675s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index
+[0.675s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index/packages
+[0.676s] copying resource/simple_threshold_monitor -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index/packages
+[0.676s] copying package.xml -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor
+[0.676s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor/launch
+[0.676s] copying launch/launch.py -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor/launch
+[0.676s] running install_egg_info
+[0.677s] Copying ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor-0.0.0-py3.10.egg-info
+[0.678s] running install_scripts
+[0.693s] Installing random_publisher script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+[0.693s] Installing threshold_subscriber script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+[0.693s] writing list of installed files to '/home/ajr/far_wbw_main/build/simple_threshold_monitor/install.log'
+[0.714s] Invoked command in '/home/ajr/far_wbw_main/simple_threshold_monitor' returned '0': PYTHONPATH=/home/ajr/far_wbw_main/build/simple_threshold_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/simple_threshold_monitor build --build-base /home/ajr/far_wbw_main/build/simple_threshold_monitor/build install --record /home/ajr/far_wbw_main/build/simple_threshold_monitor/install.log --single-version-externally-managed install_data
