@@ -1,0 +1,22 @@
+[0.542s] Invoking command in '/home/ajr/far_wbw_main/simple_threshold_monitor': PYTHONPATH=/home/ajr/far_wbw_main/build/simple_threshold_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/simple_threshold_monitor build --build-base /home/ajr/far_wbw_main/build/simple_threshold_monitor/build install --record /home/ajr/far_wbw_main/build/simple_threshold_monitor/install.log --single-version-externally-managed install_data
+[0.724s] running egg_info
+[0.724s] writing ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/PKG-INFO
+[0.724s] writing dependency_links to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/dependency_links.txt
+[0.725s] writing entry points to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/entry_points.txt
+[0.725s] writing requirements to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/requires.txt
+[0.725s] writing top-level names to ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/top_level.txt
+[0.726s] reading manifest file '../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.727s] writing manifest file '../build/simple_threshold_monitor/simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.727s] running build
+[0.727s] running build_py
+[0.728s] running install
+[0.728s] running install_lib
+[0.729s] running install_data
+[0.729s] running install_egg_info
+[0.730s] removing '/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor-0.0.0-py3.10.egg-info' (and everything under it)
+[0.731s] Copying ../build/simple_threshold_monitor/simple_threshold_monitor.egg-info to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple_threshold_monitor-0.0.0-py3.10.egg-info
+[0.732s] running install_scripts
+[0.750s] Installing random_publisher script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+[0.750s] Installing threshold_subscriber script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+[0.750s] writing list of installed files to '/home/ajr/far_wbw_main/build/simple_threshold_monitor/install.log'
+[0.774s] Invoked command in '/home/ajr/far_wbw_main/simple_threshold_monitor' returned '0': PYTHONPATH=/home/ajr/far_wbw_main/build/simple_threshold_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/simple_threshold_monitor build --build-base /home/ajr/far_wbw_main/build/simple_threshold_monitor/build install --record /home/ajr/far_wbw_main/build/simple_threshold_monitor/install.log --single-version-externally-managed install_data
