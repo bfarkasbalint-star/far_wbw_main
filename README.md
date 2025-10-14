@@ -1,12 +1,3 @@
-Clone and build the packages: 
-
-colcon build --packages-select simple_threshold_monitor --symlink-install
-source install/setup.bash
-
-Run: 
-
-ros2 launch simple_threshold_monitor launch.py
-
 # `ros2_py_template` package
 ROS 2 python package.  [![Static Badge](https://img.shields.io/badge/ROS_2-Humble-34aec5)](https://docs.ros.org/en/humble/)
 ## Packages and build

@@ -6,12 +6,13 @@ def generate_launch_description():
         Node(
             package='simple_threshold_monitor',
             executable='random_publisher',
-            name='random_publisher'
+            name='random_publisher',
+            output='screen'  
         ),
         Node(
             package='simple_threshold_monitor',
             executable='threshold_subscriber',
             name='threshold_subscriber',
-            parameters=[{'threshold': 50.0}]  # opcionális, ha paraméterből akarjuk állítani
+            output='screen'  
         ),
     ])
