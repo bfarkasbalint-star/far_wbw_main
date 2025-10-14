@@ -1,0 +1,27 @@
+[0.501s] Invoking command in '/home/ajr/far_wbw_main/build/simple_threshold_monitor': PYTHONPATH=/home/ajr/far_wbw_main/build/simple_threshold_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ajr/far_wbw_main/build/simple_threshold_monitor/build --no-deps symlink_data
+[0.695s] running develop
+[0.796s] running egg_info
+[0.796s] creating simple_threshold_monitor.egg-info
+[0.796s] writing simple_threshold_monitor.egg-info/PKG-INFO
+[0.796s] writing dependency_links to simple_threshold_monitor.egg-info/dependency_links.txt
+[0.796s] writing entry points to simple_threshold_monitor.egg-info/entry_points.txt
+[0.797s] writing requirements to simple_threshold_monitor.egg-info/requires.txt
+[0.797s] writing top-level names to simple_threshold_monitor.egg-info/top_level.txt
+[0.797s] writing manifest file 'simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.798s] reading manifest file 'simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.799s] writing manifest file 'simple_threshold_monitor.egg-info/SOURCES.txt'
+[0.800s] running build_ext
+[0.800s] Creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple-threshold-monitor.egg-link (link to .)
+[0.800s] Installing random_publisher script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+[0.801s] Installing threshold_subscriber script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+[0.801s] 
+[0.801s] Installed /home/ajr/far_wbw_main/build/simple_threshold_monitor
+[0.801s] running symlink_data
+[0.801s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index
+[0.801s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index
+[0.802s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index/packages
+[0.802s] symbolically linking /home/ajr/far_wbw_main/build/simple_threshold_monitor/resource/simple_threshold_monitor -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index/packages
+[0.802s] symbolically linking /home/ajr/far_wbw_main/build/simple_threshold_monitor/package.xml -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor
+[0.802s] creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor/launch
+[0.802s] symbolically linking /home/ajr/far_wbw_main/build/simple_threshold_monitor/launch/launch.py -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor/launch
+[0.839s] Invoked command in '/home/ajr/far_wbw_main/build/simple_threshold_monitor' returned '0': PYTHONPATH=/home/ajr/far_wbw_main/build/simple_threshold_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ajr/far_wbw_main/build/simple_threshold_monitor/build --no-deps symlink_data

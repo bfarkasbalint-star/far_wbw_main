@@ -1,4 +1,0 @@
-[console_scripts]
-random_publisher = simple_threshold_monitor.random_publisher:main
-threshold_subscriber = simple_threshold_monitor.threshold_subscriber:main
-

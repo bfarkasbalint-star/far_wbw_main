@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating simple_threshold_monitor.egg-info
+writing simple_threshold_monitor.egg-info/PKG-INFO
+writing dependency_links to simple_threshold_monitor.egg-info/dependency_links.txt
+writing entry points to simple_threshold_monitor.egg-info/entry_points.txt
+writing requirements to simple_threshold_monitor.egg-info/requires.txt
+writing top-level names to simple_threshold_monitor.egg-info/top_level.txt
+writing manifest file 'simple_threshold_monitor.egg-info/SOURCES.txt'
+reading manifest file 'simple_threshold_monitor.egg-info/SOURCES.txt'
+writing manifest file 'simple_threshold_monitor.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/python3.10/site-packages/simple-threshold-monitor.egg-link (link to .)
+Installing random_publisher script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+Installing threshold_subscriber script to /home/ajr/far_wbw_main/install/simple_threshold_monitor/lib/simple_threshold_monitor
+
+Installed /home/ajr/far_wbw_main/build/simple_threshold_monitor
+running symlink_data
+creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index
+creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index
+creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index/packages
+symbolically linking /home/ajr/far_wbw_main/build/simple_threshold_monitor/resource/simple_threshold_monitor -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/ament_index/resource_index/packages
+symbolically linking /home/ajr/far_wbw_main/build/simple_threshold_monitor/package.xml -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor
+creating /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor/launch
+symbolically linking /home/ajr/far_wbw_main/build/simple_threshold_monitor/launch/launch.py -> /home/ajr/far_wbw_main/install/simple_threshold_monitor/share/simple_threshold_monitor/launch

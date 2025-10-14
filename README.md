@@ -1,4 +1,8 @@
-Clone and build the packages: colcon build --packages-select simple_threshold_monitor
+Clone and build the packages: 
 
-Run: launch simple_threshold_monitor simple_threshold.launch.py
-x
+colcon build --packages-select simple_threshold_monitor --symlink-install
+source install/setup.bash
+
+Run: 
+
+ros2 launch simple_threshold_monitor launch.py
