@@ -27,3 +27,9 @@ source install/setup.bash
 ``` r
 ros2 launch simple_threshold_monitor launch.py
 ```
+
+Node-topic kapcsolat
+
+```mermaid
+graph LR
+    A[random_publisher] -->|/random_value| B[threshold_subscriber]
