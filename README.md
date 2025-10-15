@@ -1,3 +1,5 @@
+A package két node-ból áll. A `/random_publisher`1 Hz frekvenciával véletlenszámot generál (0–100 tartományban) és elküldi egy topicra `/random_value`. A `/threshold_subscriber` feliratkozik a `/random_value` topicra, és ellenőrzi, hogy az érték meghaladja-e a küszöbértéket (pl. 50). Ha igen → „Threshold exceeded”, ha nem → „OK”.
+
 # `ros2_py_template` package
 ROS 2 python package.  [![Static Badge](https://img.shields.io/badge/ROS_2-Humble-34aec5)](https://docs.ros.org/en/humble/)
 ## Packages and build
