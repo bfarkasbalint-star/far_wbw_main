@@ -11,7 +11,7 @@ It is assumed that the workspace is `~/ros2_ws/`.
 cd ~/ros2_ws/src
 ```
 ``` r
- git clone https://github.com/bfarkasbalint-star/far_wbw_mai
+ git clone https://github.com/bfarkasbalint-star/far_wbw_main
 ```
 
 ### Build ROS 2 packages
