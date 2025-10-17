@@ -8,10 +8,10 @@ It is assumed that the workspace is `~/ros2_ws/`.
 
 ### Clone the packages
 ``` r
-git clone https://github.com/bfarkasbalint-star/far_wbw_main
+cd ~/ros2_ws/src
 ```
 ``` r
- cd ~/ros2_ws/far_wbw_main
+ git clone https://github.com/bfarkasbalint-star/far_wbw_mai
 ```
 
 ### Build ROS 2 packages
